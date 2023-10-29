@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cloudnotes_react/static/css/main.eda8a4c0.css",
+    "main.js": "/cloudnotes_react/static/js/main.ef7bf637.js",
+    "static/media/bg.jpg": "/cloudnotes_react/static/media/bg.ad256a5f863afe11c8c5.jpg",
+    "index.html": "/cloudnotes_react/index.html",
+    "main.eda8a4c0.css.map": "/cloudnotes_react/static/css/main.eda8a4c0.css.map",
+    "main.ef7bf637.js.map": "/cloudnotes_react/static/js/main.ef7bf637.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eda8a4c0.css",
+    "static/js/main.ef7bf637.js"
+  ]
+}
